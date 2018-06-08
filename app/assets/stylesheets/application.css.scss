@@ -13,7 +13,6 @@
  *= require_self
  */
  @import "bootstrap";
- nav.site_menu a {
-   text-decoration: none;
-   color: white;
+ .highlight-front a{
+    color: blue;
  }
